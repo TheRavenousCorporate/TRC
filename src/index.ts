@@ -1,5 +1,5 @@
-import { Client } from "#lib";
 import "./container";
+import { Client } from "#lib";
 import { container } from "@sapphire/framework";
 import path from "node:path";
 
